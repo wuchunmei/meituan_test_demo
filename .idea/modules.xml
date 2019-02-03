@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/meituan.iml" filepath="$PROJECT_DIR$/meituan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meituan_test_demo.iml" filepath="$PROJECT_DIR$/meituan_test_demo.iml" />
     </modules>
   </component>
 </project>
